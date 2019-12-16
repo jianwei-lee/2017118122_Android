@@ -4,6 +4,9 @@
 * [HelloWorld](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter1/HelloWorld)
 ### 第二章
 * [ActivityTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter2/ActivityTest)
+### 第三章
+* [RecyclerViewTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest)
+* [RecyclerViewTest2](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest2)
 ## 二、注意事项
 ### 1、导入项目时路径中不能包含中文名
 ### 2、导入项目时加载时间过长解决方法
