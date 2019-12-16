@@ -1,12 +1,13 @@
 # 李健玮的Android应用开发作业
 ## 一、目录
 ### 第一章
-* [HelloWorld](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter1/HelloWorld)
+* [HelloWorld](https://github.com/jianwei-lee/2017118122_Android/tree/master/HelloWorld)（作业1：HelloWorld程序）
+* [chapter1/HelloWorld](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter1/HelloWorld)（导入郭霖课本源代码，遇到的问题readme）
 ### 第二章
-* [ActivityTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter2/ActivityTest)
+* [chapter2/ActivityTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter2/ActivityTest)（作业2：两个活动的切换，作业3：隐式intent召唤浏览器，地图和拨号，作业4：活动的4个启动模式）
 ### 第三章
-* [RecyclerViewTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest)
-* [RecyclerViewTest2](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest2)
+* [chapter3/RecyclerViewTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest)
+* [chapter3/RecyclerViewTest2](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest2)（作业5：增删改程序）
 ## 二、注意事项
 ### 1、导入项目时路径中不能包含中文名
 ### 2、导入项目时加载时间过长解决方法
