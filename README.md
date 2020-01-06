@@ -10,6 +10,7 @@
 * [chapter3/RecyclerViewTest2](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter3/RecyclerViewTest2)（作业5：增删改程序）
 ### 第十章
 * [chapter10/AndroidThreadTest](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter10/AndroidThreadTest)(作业6：多线程编程)
+* [chapter10/AsyncTask](https://github.com/jianwei-lee/2017118122_Android/tree/master/chapter10/AsyncTask)(作业7：服务小程序)
 ## 二、注意事项
 ### 1、导入项目时路径中不能包含中文名
 ### 2、导入项目时加载时间过长解决方法
